@@ -1,7 +1,7 @@
 # Docker Test
 
 ## Pre-requisite
-1. [https://www.docker.com/]Docker Installed
+1. [https://www.docker.com/] Docker Installed
 
 ## Running Application
 1. docker build --tag:NameOfTheApp
