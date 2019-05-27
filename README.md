@@ -1,0 +1,10 @@
+# Docker Test
+
+## Pre-requisite
+1. [https://www.docker.com/]Docker Installed
+
+## Running Application
+1. docker build --tag:NameOfTheApp
+2. docker run -p 4000:80 NameOfTheApp
+
+Now you can go to localhost:4000 and find the application working.
